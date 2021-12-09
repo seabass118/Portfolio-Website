@@ -1,10 +1,9 @@
-import React from 'react'
+import React from 'react';
+import Name from './Name/Name';
 
 function Header() {
     return (
-        <div className="w-full h-10 bg-gray-700">
-            
-        </div>
+        <Name />
     )
 }
 

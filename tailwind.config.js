@@ -4,8 +4,12 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        'body-white': '#cad8de',
-      }
+        'body-white': '#252a2c',
+        'header-grey': '#222326',
+      },
+      fontFamily: {
+        'readex-pro': ['Readex Pro', 'sans-serif'],
+      },
     },
   },
   variants: {

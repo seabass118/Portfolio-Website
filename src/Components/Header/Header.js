@@ -1,9 +1,13 @@
 import React from 'react';
 import Name from './Name/Name';
+import Title from './Title/Title';
 
 function Header() {
     return (
-        <Name />
+        <div className="Header">
+            <Name />
+            <Title />
+        </div>
     )
 }
 

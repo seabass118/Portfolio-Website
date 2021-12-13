@@ -1,4 +1,4 @@
 # Portfolio Website
 
-### Built with React + Tailwind css
+Built with React + Tailwind css
 

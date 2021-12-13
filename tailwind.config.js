@@ -5,9 +5,9 @@ module.exports = {
     extend: {
       colors: {
         'body-color': '#d3cdb1',
-        'header-grey': '#222326',
+        'nice-grey': '#222326',
         'header-border': '#373737',
-        'off-white': '#f4edd8',
+        'dim-white': '#ffffff4f',
       },
       fontFamily: {
         'readex-pro': ['Readex Pro', 'sans-serif'],

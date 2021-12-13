@@ -8,12 +8,16 @@ module.exports = {
         'nice-grey': '#222326',
         'header-border': '#373737',
         'dim-white': '#ffffff4f',
+        'chill-red': '#d1283e',
       },
       fontFamily: {
         'readex-pro': ['Readex Pro', 'sans-serif'],
       },
       boxShadow: {
         'message-shadow': '0px 0px 6px 0px #fff',
+      },
+      animation: {
+        'fish-ani': 'bounce 3s linear infinite'
       },
     },
   },

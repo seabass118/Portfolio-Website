@@ -11,8 +11,12 @@ function Right() {
                 About Me
             </div>
             <div className="text-nice-grey pr-8 flex flex-row items-center">
-                <img className="w-5 h-5 mr-1.5" src={GitHub} alt="GitHub icon"></img>
-                Code
+                <a href="https://github.com/seabass118/Portfolio-Website" target="_blank" rel="noreferrer">
+                    <div className="w-min w-min-max flex flex-row justify-center items-center">
+                        <img className="w-5 h-5 mr-1.5" src={GitHub} alt="GitHub icon"></img>
+                        Code
+                    </div>
+                </a>
             </div>
             <div className="text-nice-grey pr-8">
                 Contact

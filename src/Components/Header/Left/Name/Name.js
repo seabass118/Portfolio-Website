@@ -7,7 +7,7 @@ function Name() {
             <div className="w-14 h-9 pl-5">
                 <img src={FishIcon} alt="Fish Icon"></img>
             </div>
-            <div className="text-white px-5 ml-1.5 text-2xl font-semibold">
+            <div className="text-white px-5 text-2xl font-semibold">
                 Sebastian Blackley
             </div>
         </div>  

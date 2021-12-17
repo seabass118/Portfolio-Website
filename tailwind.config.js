@@ -20,10 +20,15 @@ module.exports = {
         'fish-ani': 'bounce 3s linear infinite'
       },
       screens: {
-        'lg': '880px',
+        'sm': '300px',
+        'md': '478px',
+        'lg': '600px',
+        'xl': '880px',
       },
       width: {
-        'medium': '36rem',
+        'large': '36rem',
+        'medium': '26rem',
+        'small': 'calc(100% - 3rem)',
         'social-icon': '2.5rem',
       },
       height: {

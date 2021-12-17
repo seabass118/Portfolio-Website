@@ -15,7 +15,7 @@ function App() {
                 <Route path="/" element={<Home />} />
                 <Route path="/projects" element={<Projects />} />
             </Routes>
-            <div className="pb-5 w-medium flex items-center justify-center">
+            <div className="pb-5 w-auto flex items-center justify-center">
                 <Copyright />
             </div>
         </div>

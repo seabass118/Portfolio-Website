@@ -5,7 +5,7 @@ module.exports = {
     extend: {
       colors: {
         'body-color': '#d3cdb1',
-        'nice-grey': '#222326',
+        'nice-grey': 'rgb(34, 35, 38)',
         'header-border': '#373737',
         'dim-white': '#ffffff4f',
         'chill-red': '#d1283e',
@@ -18,6 +18,16 @@ module.exports = {
       },
       animation: {
         'fish-ani': 'bounce 3s linear infinite'
+      },
+      screens: {
+        'lg': '880px',
+      },
+      width: {
+        'medium': '36rem',
+        'social-icon': '2.5rem',
+      },
+      height: {
+        'social-icon': '2.5rem',
       },
     },
   },

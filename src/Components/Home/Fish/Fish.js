@@ -1,5 +1,5 @@
 import React from 'react';
-import FishIcon from '../../Icons/fish_graphic.png';
+import FishIcon from '../../../Icons/fish_graphic.png';
 
 function Fish() {
     return (

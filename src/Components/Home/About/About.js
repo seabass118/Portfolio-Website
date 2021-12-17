@@ -10,7 +10,7 @@ function About() {
                 <div className="text-md">
                     My name is Sebastian Blackley and I am a freelance full-stack developer.<br></br>
                     I enjoy exploring new tech and building web applications in my free time. <br></br>
-                    My most recent application being <a className="font-semibold text-chill-red" href="https://github.com/seabass118/Coinraf" target="_blank" rel="noreferrer">Coinraf</a>,
+                    My most recent application being <a className="font-semibold text-transparent bg-clip-text bg-gradient-to-br from-pink-400 to-red-600" href="https://github.com/seabass118/Coinraf" target="_blank" rel="noreferrer">Coinraf</a>,
                     a cryptocurrency data platform <br></br> 
                     to track crypto prices and discover new tokens.
                 </div>

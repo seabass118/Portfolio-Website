@@ -6,7 +6,9 @@ function Header() {
     return (
         <div className="Header flex flex-row">
             <Left />
-            <Right />
+            <div className="lg:flex hidden ml-auto">
+                <Right />
+            </div>
         </div>
     )
 }
